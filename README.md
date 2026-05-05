@@ -1,6 +1,6 @@
 # 📂 Android Calculator App
 
-This repository contains a **fully functional calculator application** built using Java and XML in Android Studio. The app is designed to replicate the features and functionality of a real calculator.
+This repository contains a **fully functional calculator application** built using Java and XML in Android Studio. The app is designed to replicate the features and functionality of a calculator.
 
 ---
 
