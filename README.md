@@ -27,7 +27,7 @@ The purpose of this project is to develop a complete calculator application whil
   * Backspace
 
 * Real-time calculation display
-
+ 
 * User-friendly calculator interface
 
 ---
