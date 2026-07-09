@@ -35,7 +35,7 @@ The purpose of this project is to develop a complete calculator application whil
 ## 🛠️ Tech Used
 
 * Java
-* XML
+* XML 
 * Android Studio
 
 ---
