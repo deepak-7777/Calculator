@@ -5,7 +5,7 @@ This repository contains a **fully functional calculator application** built usi
 ---
 
 ## 📚 About
-
+ 
 The purpose of this project is to develop a complete calculator application while practicing Android development, UI design, and mathematical logic implementation.
 
 ---
